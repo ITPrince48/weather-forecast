@@ -1,0 +1,30 @@
+.app {
+  display: flex;
+  flex-direction: row;
+  padding: 10px;
+
+}
+
+.colmns {
+  justify-content: center;
+  padding-top: 40px;
+  padding-bottom: 40px;
+  align-items: center;
+}
+
+.components {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  padding: 5px;
+  justify-items: center;
+  align-items: center;
+}
+
+.address {
+  padding-top: 50px;
+  padding-bottom: 50px;
+  text-align: left;
+  font-size: 25px;
+  padding-left: 20px;
+}
